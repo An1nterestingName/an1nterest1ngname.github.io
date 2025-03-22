@@ -1,10 +1,12 @@
+# UNDER CONSTRUCTION
+Some changes are being made to this site, some things may move around or temporarily go missing
+# NAME CHANGED
+This site is now avaliable under an1nterestingname.github.io instead of someguynamedjj.github.io. Some parts of this site may not have changed to reflect this.
 # Welcome to my website!
-Welcome to my website, here you will find all of my social links, YouTube videos, Twitch Streams and posts where I talk about future content, or just what I'm doing at the moment. I'll also put anything that I make avaliable to download avaliable on here as well.
-# About Me
-Hi, I'm SomeGuyNamedJJ, or just JJ and I am a small Minecraft YouTuber and Twitch Streamer. I am also a Linux user and I run EndeavourOS, a distro baased on Arch dualbooted with Windows 11. I should also warn you that I am Bri'ish and I know way too much about obscure things and Minecraft Commands.
+Welcome to my website, here you will find all of my social links, YouTube videos, Twitch Streams and posts where I talk about future content, or just what I'm doing at the moment. I'll also put anything that I make avaliable to download avaliable on here as well. Also, the website is hosted on GitHub, so you can find the Source Code on the Links page as well.
 # Navigation
-You can find every page here
+You can find every page here:
 
-[Home](https://someguynamedjj.github.io/home)
+[Links](links)
 
-[Links](https://someguynamedjj.github.io/links)
+[Projects](projects)
